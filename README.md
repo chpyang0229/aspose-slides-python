@@ -25,10 +25,11 @@ After evaluating several options, we decided to use Aspose.Slides for Python via
 We implemented the solution by integrating Aspose.Slides into our backend systems. The inputs include PowerPoint files, and the output is video files in various formats that our users can easily share and present. The user interface is simple and intuitive, allowing users to upload PPT files and receive video conversions almost instantly.
 
 ### Figure 1: Import PPT with Aspose
-![Figure 1](image1_path)
+<img width="936" height="632" alt="image" src="https://github.com/user-attachments/assets/b7522e30-4d66-4c20-89a1-8f7b00eeaa29" />
+
 
 ### Figure 2: Rendering PPT with Aspose
-![Figure 2](image2_path)
+<img width="934" height="524" alt="image" src="https://github.com/user-attachments/assets/eb4be6c2-a3a5-486c-9fc4-5a1ff3a3e287" />
 
 ## Experience
 
