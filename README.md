@@ -1,8 +1,8 @@
-# aspose-slides-python
+# aspose-slides-python @ leadde.ai
 <img width="496" height="170" alt="image" src="https://github.com/user-attachments/assets/ccadec00-c154-44ae-8113-985496657321" />
 
 Turning PowerPoint Presentations into Videos with Aspose.Slides for Python via Java
-Link: https://pypi.org/project/aspose-slides-java/
+Link: https://products.aspose.com/slides/
 
 # Leadde.ai Case Study
 
